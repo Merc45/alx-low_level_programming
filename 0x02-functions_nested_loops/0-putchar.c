@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * Main - print _putchar
- * is written by bwave
+ * main - prints Holberton as a message.
  * Return: 0
  */
 
